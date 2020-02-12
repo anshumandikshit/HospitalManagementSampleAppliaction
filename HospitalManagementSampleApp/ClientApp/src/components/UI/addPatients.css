@@ -1,0 +1,26 @@
+.AddPatient {
+    text-align: start;
+    width: 80%;
+    margin: 2rem auto;
+}
+.AddPatient h4 {
+    margin-bottom: 4rem;
+}
+
+.AddPatient label {
+    display: block;
+    margin: 2rem auto;
+}
+
+.AddPatient label input {
+    display: inline-block;
+    margin-left: 1rem;
+    padding: .5rem;
+    height: 30px;
+}
+
+@media (min-width: 600px) {
+    .ContactData {
+        width: 500px;
+    }
+}

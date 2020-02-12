@@ -1,0 +1,85 @@
+{
+    "doctors":[
+        {
+            "id": 1,
+            "Name":"Bill Gates",
+            "Tags": [
+                {
+                    "Name": "Developer"
+                },
+                {
+                    "Name": "Data Guy"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "Name":"Satya Nadela"
+        },
+        {
+            "id": 3,
+            "Name":"Elon Musk"
+        },
+        {
+            "id": 4,
+            "Name":"Ritesh Agrawal"
+        }
+    ],
+    "rooms":[
+        {
+            "id": 1,
+            "Name":"Dormy"
+        },
+        {
+            "id": 2,
+            "Name":"1 seated"
+        },
+        {
+            "id": 3,
+            "Name":"2 seated"
+        },
+        {
+            "id": 4,
+            "Name":"OT"
+        },
+        {
+            "id": 5,
+            "Name":"VIP"
+        }
+    ],
+
+
+    "patients": [{
+            "id": 1,
+            "firstName": "Bill",
+            "lastName": "Gates",
+            "email": "bill@microsoft.com"
+        },
+        {
+            "id": 2,
+            "firstName": "Mark",
+            "lastName": "Zuckerberg",
+            "email": "mark@facebook.com"
+        },
+        {
+            "id": 3,
+            "firstName": "Jeff",
+            "lastName": "Bezos",
+            "email": "jeff@amazon.com"
+        }
+    ],
+    "companies": [{
+            "id": 1,
+            "name": "Microsoft"
+        },
+        {
+            "id": 2,
+            "name": "Facebook"
+        },
+        {
+            "id": 3,
+            "name": "Amazon"
+        }
+    ]
+
+}
